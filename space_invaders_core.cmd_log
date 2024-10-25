@@ -1,0 +1,680 @@
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project/space_invaders_core.xst" -ofn "U:/EE 354/final_project/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_III/space_invaders_core.xst" -ofn "U:/EE 354/final_project_III/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 
+xst -intstyle ise -ifn "U:/EE 354/final_project_IV/space_invaders_core.xst" -ofn "U:/EE 354/final_project_IV/space_invaders_core.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc nexys3.ucf -p xc6slx16-csg324-3 "space_invaders_core.ngc" space_invaders_core.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o space_invaders_core_map.ncd space_invaders_core.ngd space_invaders_core.pcf 
+par -w -intstyle ise -ol high -mt off space_invaders_core_map.ncd space_invaders_core.ncd space_invaders_core.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml space_invaders_core.twx space_invaders_core.ncd -o space_invaders_core.twr space_invaders_core.pcf -ucf nexys3.ucf 
+bitgen -intstyle ise -f space_invaders_core.ut space_invaders_core.ncd 

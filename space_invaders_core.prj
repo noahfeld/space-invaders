@@ -1,0 +1,6 @@
+verilog work "spaceship.v"
+verilog work "rocket.v"
+verilog work "hvsync_generator.v"
+verilog work "debouncer_DPB_SCEN_CCEN_MCEN.v"
+verilog work "alien.v"
+verilog work "space_invaders.v"
